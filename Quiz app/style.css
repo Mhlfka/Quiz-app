@@ -70,3 +70,7 @@ body{
 .incorrect{
     background: #ff9393;
 }
+p{
+    color: aliceblue;
+    text-align: center;
+}
